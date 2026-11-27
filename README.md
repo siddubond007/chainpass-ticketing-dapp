@@ -1,4 +1,4 @@
-﻿# ChainPass — Decentralized Event Ticketing Platform
+# ChainPass — Decentralized Event Ticketing Platform
 
 A full-stack Ethereum DApp built as a Blockchain Development Capstone Project. ChainPass eliminates ticket counterfeiting and intermediary fees by managing event creation, ticket minting, peer-to-peer transfers, and gate verification directly through Solidity smart contracts.
 

@@ -1,4 +1,4 @@
-﻿const EventTicketing = artifacts.require("EventTicketing");
+const EventTicketing = artifacts.require("EventTicketing");
 
 contract("EventTicketing", (accounts) => {
   const [organizer, buyer, receiver] = accounts;

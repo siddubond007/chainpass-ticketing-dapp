@@ -1,4 +1,4 @@
-﻿const EventTicketing = artifacts.require("EventTicketing");
+const EventTicketing = artifacts.require("EventTicketing");
 
 module.exports = async function (deployer) {
   await deployer.deploy(EventTicketing);
