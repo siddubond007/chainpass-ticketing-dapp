@@ -1,0 +1,6 @@
+﻿node_modules/
+client/node_modules/
+client/dist/
+client/src/contracts/
+.env
+.DS_Store
